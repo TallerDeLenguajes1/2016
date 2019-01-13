@@ -7,7 +7,8 @@ La carpeta -- Proyecto Final -- tiene los Proyectos presentados por los alumnos 
 Docentes: 
 - Sergio Luis Guardia
 - Beatriz Juarez Torres
-- Fátima Martinez 
+- Fátima Martinez
+
 Auxiliares:
 - Graña Javier
 - Arnaldo Martinez 
