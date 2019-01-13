@@ -1,0 +1,30 @@
+1021      Av. Alem 2145                  258.50             Habitable
+1022      San Lorenzo 3520               185.00             Reparaciones
+1023      Crisostomo Alvarez 1948        325.50             Excelente
+1024      Lamadrid 4200                  225.00             Habitable
+1025      Amador Lucero 75               450.00             Excelente
+1026      Pje Lavalle 2447               250.00             Modificaciones
+1027      Av. Ernesto Padilla 568        315.00             Excelente
+1028      Italia 2200                    272.00             Regular
+1029      Pje Virrey Vertiz 1235         285.00             Excelente
+1030      Asuncion 1240                  180.00             Excelente
+1031      Bolivia 3518                   125.00             Reparaciones
+1032      Lamadrid 2560                  100.00             Habitable
+1033      Constitucion 450               480.00             Excelente
+1034      Baltazar Aguirre 385           295.00             Reparaciones
+1035      Rondeau 628                    150.00             Habitable
+1036      Alsina 2320                    280.00             Excelente
+1037      Pueyrredon 520                 110.00             Habitable
+1038      Colombia 3485                  158.00             Reparaciones
+1039      Guatemala 618                  260.00             Regular
+1040      Pje Zantillan 3125             290.00             Excelente
+1041      Mejico 350                     168.00             Regular
+1042      Chacabuco 325                  200.00             Reparaciones
+1043      Ayacucho 156                   350.00             Regular
+1044      Bolivar 963                    215.00             Regular
+1045      Jujuy 420                      380.00             Excelente
+1046      Las Piedras 932                 60.00             Excelente
+1047      Lincoln 530                     90.00             Reparaciones
+1048      Gorriti 180                    240.00             Regular
+1049      Agustin Masa 340               218.00             Excelente
+1050      Viamonte 968                   114.00             Reparaciones

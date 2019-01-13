@@ -1,0 +1,5 @@
+conio2.h  y  constream deben ser copiados a la carpeta include del MinGW
+libconio.a debe ser copiado a la carpeta lib del MinGW
+
+en parametros de contruccion agregar -lconio
+

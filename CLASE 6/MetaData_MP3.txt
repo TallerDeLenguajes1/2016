@@ -1,0 +1,16 @@
+ID3 versión 1[editar]
+Esta primera especificación es muy simple. Consiste en adjuntar un bloque de tamaño fijo de 128 bytes al final del fichero en cuestión. Este bloque contiene las siguientes etiquetas:
+
+Una cabecera que identifica la presencia del bloque ID3 y su versión. En concreto, dicha cabecera consta de los caracteres TAG.
+Título: 30 caracteres.
+Artista: 30 caracteres.
+Álbum: 30 caracteres.
+Año: 4 caracteres.
+Un comentario: 30 caracteres.
+Género (musical): un carácter.
+Todas las etiquetas usan caracteres ASCII, excepto el género, que es un número entero almacenado en un único byte. El género musical asociado a cada byte está predefinido en el estándar e incluye definiciones de 80 géneros, numerados del 0 al 79. Determinados programas de reproducción han ampliado por su cuenta los géneros definidos (a partir del número 80).
+
+ID3 versión 1.1[editar]
+Un inconveniente de la versión anterior es que no es posible indicar el número de pista correspondiente al álbum al que pertenece la grabación. La versión 1.1 simplemente "resta" los dos últimos caracteres de la etiqueta comentario para este propósito. Para distinguir esta versión de la anterior, el carácter nº 29 debe ser obligatoriamente un carácter nulo, seguido de un número entero en formato byte que almacena el número de canción en el álbum. Si el carácter nº 30 es nulo o si el nº 29 no lo es, el número de canción se presupone no especificado.
+
+Se trata de una solución sencilla y compatible con la versión anterior. Esto incluye la compatibilidad del software.
